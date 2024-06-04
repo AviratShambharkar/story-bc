@@ -1,0 +1,8 @@
+touch .gitignore
+ls -a
+code .gitignore
+
+
+git add . (add all the files in the local rep)
+
+git rm --cached -r . (remove all  the files trying to be commited)
